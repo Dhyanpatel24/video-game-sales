@@ -6,14 +6,13 @@ This project is about doing data analysis. We've chosen the title *Video Game Sa
 ## Information
 
 **Project Site:** https://810teams.github.io/video-game-sales/  
-**Last Updated:** 18th August 2018  
 **Project Status:** Completed / Discontinued
 
 ## Statistics
 
-**Started:** 10th November 2017  
-**Completed:** 13th December 2017  
-**Total Days:** 34 Days  
+**Started:** 28th November 2024  
+**Completed:** 3 December 2024
+**Total Days:** 6 Days  
 **Main Language:** Python  
 **Other Languages:** HTML, CSS, JavaScript
 
